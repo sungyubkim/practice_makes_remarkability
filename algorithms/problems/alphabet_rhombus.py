@@ -9,11 +9,6 @@
 #     F Q H
 #       G
 
-# 2
-#   A
-# B C D
-#   E
-
 n = int(input())
 N = 2 * n - 1
 A = [[" "] * N for _ in range(N)]
